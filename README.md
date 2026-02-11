@@ -1,3 +1,10 @@
+<!-- PROFILE BADGES -->
+<p align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=meghanshimathur&style=flat-square" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=meghanshimathur&show_icons=true&theme=react" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanshimathur&layout=compact&theme=react" />
+</p>
+
 # Hi 👋 I'm Meghanshi Mathur
 
 🎓 B.Tech in Computer Science Engineering  
