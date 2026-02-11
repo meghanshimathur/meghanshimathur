@@ -1,8 +1,13 @@
-<!-- PROFILE BADGES -->
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=meghanshimathur&style=flat-square" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=meghanshimathur&show_icons=true&theme=react" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanshimathur&layout=compact&theme=react" />
+<img src="https://komarev.com/ghpvc/?username=meghanshimathur" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=meghanshimathur&show_icons=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanshimathur&layout=compact&cache_seconds=1800" />
 </p>
 
 # Hi 👋 I'm Meghanshi Mathur
