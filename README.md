@@ -60,12 +60,7 @@ Notebook project focused on debugging image compression issues.
 
 To build a strong career in Data Analytics / AI by applying machine learning to solve real-world problems and continuously improving my technical skills.
 
----
 
-## 📫 Connect With Me
-
-- GitHub: https://github.com/meghanshimathur  
-- LinkedIn: (add your link)
 
 ---
 
