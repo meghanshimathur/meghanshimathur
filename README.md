@@ -1,9 +1,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=meghanshimathur" />
 </p>
-  
 ![Banner](banner.png)
-
 # 👋 Hi, I'm Meghanshi Mathur
 
 🎓 B.Tech in Computer Science | PGDM (AI & Data Science)  
