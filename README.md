@@ -98,16 +98,6 @@ All projects include:
 ➡ YOLO Detection  
 ➡ Classical CV Pipelines  
 ➡ Python Applications  
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=meghanshimathur&show_icons=true&theme=react&hide_border=true" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meghanshimathur&theme=react&hide_border=true" />
-</p>
 ---
 
 ## 🎯 Currently Exploring
